@@ -1,0 +1,16 @@
+
+h1{
+    margin: auto;
+    background: yellow
+}
+
+.form{
+    margin: auto;
+}
+
+body {
+    text-align: center;
+}
+/* form {
+    display: inline-block;
+} */
