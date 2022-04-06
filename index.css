@@ -1,7 +1,8 @@
 
-h1{
+h1 {
+    font-size: 2rem;
     margin: auto;
-    background: yellow
+    background: yellow;
 }
 
 .form{
@@ -9,8 +10,11 @@ h1{
 }
 
 body {
+    font-size: 16px;
     text-align: center;
 }
-/* form {
-    display: inline-block;
-} */
+
+html {
+    font-size: 32px;
+    text-align: center;
+}
